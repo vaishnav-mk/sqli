@@ -1,6 +1,6 @@
 # SQL Injection Demo
 
-A demonstration project showcasing SQL injection vulnerabilities in a web application.
+A demonstration project showcasing SQL injection vulnerabilities in a web application for my software security course 
 
 ## Setup
 
@@ -26,7 +26,3 @@ docker compose up -d --build
   - Data modification (UPDATE)
   - Data deletion (DELETE)
   - Stacked queries
-
-## Warning
-
-⚠️ **FOR EDUCATIONAL PURPOSES ONLY** - This application is intentionally vulnerable to demonstrate SQL injection attacks. Do not use in production.
